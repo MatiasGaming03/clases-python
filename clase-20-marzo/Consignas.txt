@@ -1,0 +1,5 @@
+1) Crear un menu de ajustes.
+2) Crear una calculadora.
+a) preguntar al usuario por 2 numeros
+b) mostrar opciones - s/r/m/d
+c) mostrar resultado segun lo que el usuario elija
