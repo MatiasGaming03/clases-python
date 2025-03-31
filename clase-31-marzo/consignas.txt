@@ -1,1 +1,2 @@
-#armar un programa donde el usuario debe poner 3 numeros y el programa devuelve el numero mas grande de los 3
+1) armar un programa donde el usuario debe poner 3 numeros y el programa dice cual o cuales numeros son los mayores
+2) crear un programa donde el usuario debe poner 4 numeros y el programa dice cual o cuales numeros son los menores
