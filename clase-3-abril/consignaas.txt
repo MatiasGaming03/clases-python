@@ -1,1 +1,3 @@
-consignas de hoy
+armar un programa donde el usuario pone un numero y este es sumado o restado -
+dependiendo de si el numero es positivo o negativo, y si el usuario ingresa -
+el numero 0 el programa se detendrá y mostrara el valor del numero final
