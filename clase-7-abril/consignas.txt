@@ -1,0 +1,1 @@
+1) armar un sistema que te pregunte un metodo (sumar, restar, dividir y multiplicar)
