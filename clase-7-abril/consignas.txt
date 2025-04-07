@@ -1,1 +1,2 @@
-1) armar un sistema que te pregunte un metodo (sumar, restar, dividir y multiplicar)
+1) armar un sistema que te pregunte un metodo (sumar, restar, dividir y multiplicar) y el usuario ponga los numeros
+2) armar un codigo que muestre los numero del 10 al 1 con ciclo FOR
