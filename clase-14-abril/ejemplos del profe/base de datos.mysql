@@ -1,0 +1,10 @@
+create database empresa;
+use empresa;
+create table empleados
+(
+id_empleados int primary key,
+apellido varchar(50) not null,
+sueldo float null,
+altura float null,
+fecha_nacimiento date not null
+);
