@@ -1,0 +1,2 @@
+insert into empleados(id_empleados,apellido,sueldo,altura,fecha_nacimiento)
+values(0001,'gauto'," ",1.60,'2008/12/26');
