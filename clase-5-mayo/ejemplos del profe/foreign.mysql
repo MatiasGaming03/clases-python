@@ -1,0 +1,17 @@
+create database inner-join;
+use inner-join;
+
+create table empleados
+(
+id_empleados int auto increment primary key,
+apellido varchar(50) not null,
+nombre varchar(50) not null
+);
+
+create table puestos
+(
+id_puestos int auto increment primary key,
+id_empleados int not null,
+sector varchar(30) not null,
+foreign key(id_empleados) references empleados(id_empleados)
+);
