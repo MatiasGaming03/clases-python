@@ -1,5 +1,5 @@
-create database inner-join;
-use inner-join;
+create database inner_join;
+use inner_join;
 
 create table empleados
 (
