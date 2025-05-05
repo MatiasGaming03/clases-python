@@ -1,0 +1,2 @@
+insert into empleados(id_empleados,apellido,nombre)
+values(null,'garcia','matias');
