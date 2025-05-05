@@ -1,2 +1,2 @@
-insert into empleados(id_puestos,id_empleados,puesto)
+insert into puestos(id_puestos,id_empleados,puesto)
 values(null,null,'');
